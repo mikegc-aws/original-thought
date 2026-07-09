@@ -1,0 +1,60 @@
+[train_dup] a flotru is able to brarsel using grunplarbrir .
+[train_dup] a telzirvla is able to trofuntro using kresko .
+[train_dup] a trorskirko is able to clopel using patrel .
+[train_dup] the magrordar uses dorfi to barrelzor .
+[train_dup] the nunfe uses dorfi to kunflavun .
+[train_dup] the skore uses krungeflo to sofubro .
+[train_dup] the flaskeskor uses poskarnu to gortrimo .
+[train_dup] the flotru uses krungeflo to flotrirplir .
+[train_dup] a skardo is able to grator using lirbrunu .
+[train_dup] a pluntunme is able to felkir using zalar .
+[train_dup] the florbun uses brortru to grator .
+[train_dup] with bepigru the pluntunme can felkir .
+[train_dup] the flaskeskor uses patrel to felkir .
+[train_dup] the vlunzunvar uses krungeflo to flotrirplir .
+[train_dup] with dorfi the clovalel can nicle .
+[l1] with lirbrunu the korcle can berovo .
+[train_dup] with kagel the florbun can truskun .
+[train_dup] the nunfe uses grunplarbrir to flotrirplir .
+[train_dup] the vleskor uses banir to tople .
+[train_dup] a folel is able to belbrun using bepigru .
+[train_dup] with kubrarfa the porkrel can parsor .
+[train_dup] a pluntunme is able to puntrufla using zalar .
+[train_dup] with krungeflo the lartosku can kinel .
+[train_dup] a gipli is able to boma using lorbra .
+[l1] the korcle uses mudrirpa to clirbrarla .
+[train_dup] the skore uses skodrirvli to kinel .
+[train_dup] with getri the plarguzi can sofubro .
+[train_dup] with vorburo the gelpir can roti .
+[train_dup] the flotru uses dirnobrar to clopel .
+[train_dup] with krungeflo the nesa can kinel .
+[train_dup] a brorga is able to kigru using girkir .
+[train_dup] a brelpor is able to krorclirzun using drorsko .
+[train_dup] a vlunzunvar is able to vuntragrel using pukro .
+[train_dup] with futorvor the gipli can triplirga .
+[train_dup] with girkir the plarguzi can parsor .
+[train_dup] a plirkuko is able to brarsel using dunclor .
+[train_dup] the plarguzi uses girkir to skuntirflor .
+[train_dup] the nunfe uses zeskarkrar to felkir .
+[unparseable] with vorburo the fovlel can triplirga .
+[train_dup] with pukro the plarguzi can neflel .
+[train_dup] a kriflo is able to zorsartrir using zelski .
+[l1] with brelplun the krevelkrir can plirtrizi .
+[train_dup] with vludru the modrun can gortrimo .
+[train_dup] the sukose uses pegor to nifle .
+[train_dup] a clagarro is able to plirtrizi using siplu .
+[train_dup] the flivlun uses skorre to grator .
+[train_dup] the grelda uses grunplarbrir to puntrufla .
+[train_dup] with futorvor the gipli can sorbreldo .
+[train_dup] with skorre the selpe can zorsartrir .
+[train_dup] a telzirvla is able to neflel using zalar .
+[l1] a flotror is able to kigru using pegor .
+[train_dup] the forkiskir uses brelplun to kinel .
+[train_dup] a nesa is able to felkir using bepigru .
+[train_dup] the nomor uses brunvlorzor to kinel .
+[l1] with grunplarbrir the folel can clopel .
+[invalid] with rorskun the trorskirko can clirbrarla .
+[train_dup] a clovalel is able to runevlo using vorburo .
+[train_dup] the modrun uses vludru to zufirbor .
+[train_dup] the forkiskir uses krungeflo to gortrimo .
+[train_dup] the flotru uses brelplun to grator .

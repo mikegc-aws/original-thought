@@ -1,0 +1,60 @@
+[invalid] a kriflo is able to belselvli using lorbra .
+[unparseable] the skodrirvli the brelpor can pundrunre .
+[unparseable] grelda kellubro is able to krorclirzun felkir clopel .
+[unparseable] the plarguzi uses mudrirpa to lartosku uses kresko to to to
+[unparseable] with krungeflo the folel can truskun using brelplun .
+[unparseable] . brelplun the dirfleve can borkuda .
+[unparseable] a selpe is able to gortrimo using zeskarkrar using grunplarbrir rorskun
+[invalid] the budridre uses brunvlorzor to fovlel .
+[invalid] a nirgrubi is able to trofuntro using skopitre .
+[invalid] a lartosku is able to sofubro using skodrirvli .
+[unparseable] a brelpor is to to roti using trelclel .
+[invalid] the skardo uses banir to grelrunkra .
+[invalid] a nedar is able to grator using grunplarbrir .
+[train_dup] the vleskor uses kubrarfa to nifle .
+[invalid] the vleskor uses vorburo to boma .
+[train_dup] a budridre is able to clirbrarla using bepigru .
+[invalid] the krevelkrir uses vludru to neflel .
+[train_dup] with flelkrini the brelpor can krorclirzun .
+[invalid] a skardo is able to fovlel using pukro .
+[unparseable] a sorbreldo . using using siplu is to to boma parsor
+[l1] with gunnunkra the dirfleve can sofubro .
+[train_dup] the pluntunme uses kresko to belbrun .
+[invalid] with getri the nirgrubi can skarforplar .
+[invalid] with girkir the budridre can grelrunkra .
+[unparseable] a flotror is able to plirtrizi using poskarnu . .
+[invalid] a forkiskir is able to nicle using brelplun .
+[train_dup] the dirfleve uses poskarnu to belbrun .
+[invalid] a folel is able to zorsartrir using gunzar .
+[unparseable] with zeskarkrar uses telzirvla can flotrirplir .
+[unparseable] getri girkir the vubru can sofubro .
+[invalid] the lartosku uses vlirflel to grunskelsa .
+[invalid] the flaskeskor uses grunplarbrir to bruti .
+[l1] with brelplun the budridre can trofuntro .
+[unparseable] with pukro the drelbrir runevlo plirtrizi .
+[unparseable] with sukose is able
+[invalid] the plarguzi uses bepigru to krorclirzun .
+[train_dup] a nirgrubi is able to belbrun using brunvlorzor .
+[unparseable] the budridre uses a to zirgel .
+[unparseable] the kriflo . foskuno to kunflavun .
+[train_dup] the modrun uses trelclel to zufirbor .
+[invalid] a gipli is able to sorbreldo using gunzar .
+[invalid] a delvlar is able to clefelcle using vludru .
+[unparseable] the tople . roti clirbrarla kinel .
+[unparseable] a krevelkrir is able to . .
+[unparseable] a plirkuko is able to grator using with
+[invalid] with banir the vleskor can gortrimo .
+[invalid] the vlunzunvar uses nobovar to puntrufla .
+[train_dup] a budridre is able to kinel using karfotu .
+[unparseable] with vludru uses pegor the nirzoge is can can can to
+[invalid] with vorburo the plirkuko can neflel .
+[invalid] with girkir the folel can clopel .
+[unparseable] with grelrunkra . skopitre to krorclirzun .
+[unparseable] tunfli nobovar the flivlun to brarsel .
+[unparseable] a sukose is able to clirbrarla .
+[train_dup] a buno is able to clopel using bepigru .
+[unparseable] with fovlel . using using dirfleve is able to can boma
+[invalid] a flotror is able to skarforplar using skopitre .
+[unparseable] the brelpor . girkir to berovo .
+[unparseable] a forkiskir is able to krorclirzun using brortru uses lartosku kellubro
+[invalid] the lartosku uses vorburo to belbrun .

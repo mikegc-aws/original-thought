@@ -1,0 +1,28 @@
+{
+  "size": "s3",
+  "n_params": 111296,
+  "steps": 6000,
+  "seed": 0,
+  "final_loss": 1.2751153707504272,
+  "metrics": {
+    "rate": {
+      "train_dup": 0.797,
+      "l1": 0.09125,
+      "l2": 0.0625,
+      "invalid": 0.02525,
+      "unparseable": 0.024
+    },
+    "grammar_rate": 0.976,
+    "novel_valid_precision": 0.8589385474860335,
+    "unique_l1": 331,
+    "unique_l2": 234,
+    "l1_coverage": 0.17989130434782608,
+    "l2_coverage": 0.14625
+  },
+  "logprob": {
+    "heldout_valid": -1.3023698329925537,
+    "invalid": -2.1097497940063477,
+    "gap": 0.807379961013794
+  },
+  "train_secs": 25.3
+}

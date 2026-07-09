@@ -89,7 +89,7 @@ Mike's critique: *"emergent properties are basically a fancy way of saying we do
 know why or how this is happening."* Often true as the term is used. This project
 adopts a strict definition so the word does work instead of hiding ignorance:
 
-> **A capability is emergent iff a metric fixed before the experiment is near its
+> **A capability is emergent if a metric fixed before the experiment is near its
 > floor for models below some scale and rises steeply above that scale, when model
 > architecture, data distribution, and training procedure are held fixed and only
 > scale (parameters and/or data) varies.**
