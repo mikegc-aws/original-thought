@@ -1,0 +1,96 @@
+{
+  "arm": "diversity",
+  "seed": 1,
+  "traj": [
+    {
+      "step": 0,
+      "rate": {
+        "train_dup": 0.837,
+        "l1": 0.096,
+        "l2": 0.055,
+        "invalid": 0.00675,
+        "unparseable": 0.00525
+      },
+      "novel_valid_precision": 0.9572107765451664,
+      "unique_heldout": 550
+    },
+    {
+      "step": 500,
+      "rate": {
+        "train_dup": 0.73475,
+        "l1": 0.092,
+        "l2": 0.1025,
+        "invalid": 0.0675,
+        "unparseable": 0.00325
+      },
+      "novel_valid_precision": 0.7423664122137404,
+      "unique_heldout": 677,
+      "selftrain_pool": 1041
+    },
+    {
+      "step": 1000,
+      "rate": {
+        "train_dup": 0.483,
+        "l1": 0.0595,
+        "l2": 0.09025,
+        "invalid": 0.36325,
+        "unparseable": 0.004
+      },
+      "novel_valid_precision": 0.2919103313840156,
+      "unique_heldout": 522,
+      "selftrain_pool": 2653
+    },
+    {
+      "step": 1500,
+      "rate": {
+        "train_dup": 0.26375,
+        "l1": 0.031,
+        "l2": 0.038,
+        "invalid": 0.663,
+        "unparseable": 0.00425
+      },
+      "novel_valid_precision": 0.0942622950819672,
+      "unique_heldout": 264,
+      "selftrain_pool": 6142
+    },
+    {
+      "step": 2000,
+      "rate": {
+        "train_dup": 0.19725,
+        "l1": 0.021,
+        "l2": 0.01975,
+        "invalid": 0.7575,
+        "unparseable": 0.0045
+      },
+      "novel_valid_precision": 0.05104917005950517,
+      "unique_heldout": 161,
+      "selftrain_pool": 11092
+    },
+    {
+      "step": 2500,
+      "rate": {
+        "train_dup": 0.176,
+        "l1": 0.01925,
+        "l2": 0.01725,
+        "invalid": 0.78525,
+        "unparseable": 0.00225
+      },
+      "novel_valid_precision": 0.044417401886218434,
+      "unique_heldout": 141,
+      "selftrain_pool": 16237
+    },
+    {
+      "step": 3000,
+      "rate": {
+        "train_dup": 0.17,
+        "l1": 0.02025,
+        "l2": 0.0155,
+        "invalid": 0.791,
+        "unparseable": 0.00325
+      },
+      "novel_valid_precision": 0.04324160870879951,
+      "unique_heldout": 138,
+      "selftrain_pool": 21287
+    }
+  ]
+}

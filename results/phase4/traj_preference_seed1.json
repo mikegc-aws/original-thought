@@ -1,0 +1,90 @@
+{
+  "arm": "preference",
+  "seed": 1,
+  "traj": [
+    {
+      "step": 0,
+      "rate": {
+        "train_dup": 0.837,
+        "l1": 0.096,
+        "l2": 0.055,
+        "invalid": 0.00675,
+        "unparseable": 0.00525
+      },
+      "novel_valid_precision": 0.9572107765451664,
+      "unique_heldout": 550
+    },
+    {
+      "step": 500,
+      "rate": {
+        "train_dup": 0.84725,
+        "l1": 0.08325,
+        "l2": 0.01525,
+        "invalid": 0.0235,
+        "unparseable": 0.03075
+      },
+      "novel_valid_precision": 0.8073770491803278,
+      "unique_heldout": 302
+    },
+    {
+      "step": 1000,
+      "rate": {
+        "train_dup": 0.9065,
+        "l1": 0.0355,
+        "l2": 0.0085,
+        "invalid": 0.01975,
+        "unparseable": 0.02975
+      },
+      "novel_valid_precision": 0.6901960784313725,
+      "unique_heldout": 138
+    },
+    {
+      "step": 1500,
+      "rate": {
+        "train_dup": 0.94825,
+        "l1": 0.01025,
+        "l2": 0.00475,
+        "invalid": 0.016,
+        "unparseable": 0.02075
+      },
+      "novel_valid_precision": 0.4838709677419355,
+      "unique_heldout": 52
+    },
+    {
+      "step": 2000,
+      "rate": {
+        "train_dup": 0.96725,
+        "l1": 0.00625,
+        "l2": 0.005,
+        "invalid": 0.009,
+        "unparseable": 0.0125
+      },
+      "novel_valid_precision": 0.5555555555555556,
+      "unique_heldout": 39
+    },
+    {
+      "step": 2500,
+      "rate": {
+        "train_dup": 0.97975,
+        "l1": 0.0055,
+        "l2": 0.00225,
+        "invalid": 0.00475,
+        "unparseable": 0.00775
+      },
+      "novel_valid_precision": 0.62,
+      "unique_heldout": 28
+    },
+    {
+      "step": 3000,
+      "rate": {
+        "train_dup": 0.983,
+        "l1": 0.004,
+        "l2": 0.0025,
+        "invalid": 0.0035,
+        "unparseable": 0.007
+      },
+      "novel_valid_precision": 0.65,
+      "unique_heldout": 22
+    }
+  ]
+}

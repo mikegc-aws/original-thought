@@ -1,0 +1,90 @@
+{
+  "arm": "control",
+  "seed": 1,
+  "traj": [
+    {
+      "step": 0,
+      "rate": {
+        "train_dup": 0.837,
+        "l1": 0.096,
+        "l2": 0.055,
+        "invalid": 0.00675,
+        "unparseable": 0.00525
+      },
+      "novel_valid_precision": 0.9572107765451664,
+      "unique_heldout": 550
+    },
+    {
+      "step": 500,
+      "rate": {
+        "train_dup": 0.8455,
+        "l1": 0.09425,
+        "l2": 0.05,
+        "invalid": 0.0055,
+        "unparseable": 0.00475
+      },
+      "novel_valid_precision": 0.9632721202003339,
+      "unique_heldout": 524
+    },
+    {
+      "step": 1000,
+      "rate": {
+        "train_dup": 0.85275,
+        "l1": 0.0925,
+        "l2": 0.04525,
+        "invalid": 0.00525,
+        "unparseable": 0.00425
+      },
+      "novel_valid_precision": 0.9632867132867133,
+      "unique_heldout": 509
+    },
+    {
+      "step": 1500,
+      "rate": {
+        "train_dup": 0.85975,
+        "l1": 0.08675,
+        "l2": 0.047,
+        "invalid": 0.0025,
+        "unparseable": 0.004
+      },
+      "novel_valid_precision": 0.981651376146789,
+      "unique_heldout": 494
+    },
+    {
+      "step": 2000,
+      "rate": {
+        "train_dup": 0.85625,
+        "l1": 0.09375,
+        "l2": 0.04175,
+        "invalid": 0.005,
+        "unparseable": 0.00325
+      },
+      "novel_valid_precision": 0.9644128113879004,
+      "unique_heldout": 484
+    },
+    {
+      "step": 2500,
+      "rate": {
+        "train_dup": 0.866,
+        "l1": 0.08625,
+        "l2": 0.04,
+        "invalid": 0.004,
+        "unparseable": 0.00375
+      },
+      "novel_valid_precision": 0.9692898272552783,
+      "unique_heldout": 472
+    },
+    {
+      "step": 3000,
+      "rate": {
+        "train_dup": 0.87225,
+        "l1": 0.08725,
+        "l2": 0.0345,
+        "invalid": 0.00325,
+        "unparseable": 0.00275
+      },
+      "novel_valid_precision": 0.974,
+      "unique_heldout": 462
+    }
+  ]
+}

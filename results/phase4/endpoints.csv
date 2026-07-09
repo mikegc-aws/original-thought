@@ -1,0 +1,4 @@
+arm,dup,uniq,prec,unparse
+control,0.868,464.5,0.974,0.003
+diversity,0.171,144.0,0.045,0.002
+preference,0.982,24.0,0.619,0.007
