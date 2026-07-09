@@ -3,14 +3,15 @@
 > **This file is the single source of truth for where the project stands.**
 > Update it at the end of every working session. Resume by reading this file top to bottom.
 
-**Last updated:** 2026-07-09
+**Last updated:** 2026-07-09 (Phase 1 complete)
 
 ## Current state
 
-- **Active phase:** Phase 0/1 — scaffolding complete, definitions doc and frontier sweep in progress.
+- **Active phase:** Phase 1 COMPLETE ✅ — next up: Phase 2 (novelty vs reference corpus).
+- **Key result so far:** Mike's mode-collapse observation replicated and explained — collapse ratio 0.7–1.0 at bare-prompt/default settings, but recoverable to 0.04–0.10 with random seed words at no coherence cost. Each model has a *different* pet idea, but all in the same genre. See `docs/02_frontier_study.md`.
 - **AWS:** account 680624154995, region `us-east-1`, role `Admin/mikegc-Isengard`.
 - **EC2 GPU:** ⚠️ NOT YET PROVISIONED. Will be created for Phase 3. Always check it is **stopped** when pausing work: `scripts/gpu_down.sh` (to be written in Phase 3).
-- **Spend so far:** ~$0 (setup only).
+- **Spend so far:** ~$5–10 Bedrock inference (1,000 generations + 1,000 embeddings + 300 Opus judge calls).
 
 ## How to resume
 
@@ -27,11 +28,12 @@ Experiments are run as `uv run python experiments/<name>.py`. All generated data
 ### Phase 0 — Definitions & measurement framework
 - [ ] `docs/01_definitions.md` — taxonomy of originality, operational metrics, strict definition of emergence
 
-### Phase 1 — Frontier-model study (Bedrock, ~$5–15)
-- [ ] `src/original_thought/bedrock.py` — unified invoke wrapper (Converse API)
-- [ ] `experiments/phase1_generate.py` — 4 models × 5 configs × 50 samples ≈ 1,000 generations
-- [ ] `experiments/phase1_analyze.py` — embed (Titan v2), cluster, diversity metrics, plots
-- [ ] `docs/02_frontier_study.md` — findings incl. answer to "why did I get the same idea every time?"
+### Phase 1 — Frontier-model study (Bedrock, ~$5–15) ✅ COMPLETE
+- [x] `src/original_thought/bedrock.py` — unified invoke wrapper (Converse API)
+- [x] `experiments/phase1_generate.py` — 4 models × 5 configs × 50 samples = 1,000 generations, 0 failures
+- [x] `experiments/phase1_analyze.py` — Titan v2 embeddings, clustering, Vendi score, collapse ratio, heatmaps
+- [x] `experiments/phase1_judge.py` — Opus 4.5 coherence/value judging (M4), 293/300 parsed
+- [x] `docs/02_frontier_study.md` — findings: H1 & H2 confirmed; collapse is a tuning/sampling artifact
 
 Models (inference profile IDs):
 - `us.anthropic.claude-sonnet-4-6`
@@ -68,3 +70,4 @@ Embeddings: `amazon.titan-embed-text-v2:0`.
 ## Session log
 
 - **2026-07-09** — Project kickoff. Repo scaffolded (uv, git). Bedrock model availability confirmed. Started Phase 0 doc + Phase 1 code.
+- **2026-07-09 (cont.)** — Phase 0 definitions doc written (`docs/01_definitions.md`, hypotheses H1–H5 pre-registered). Phase 1 fully executed: 1,000 generations, embedding+cluster analysis, Opus-judge quality scoring, findings written up. Gotcha discovered: Claude 4.5+ on Bedrock rejects temperature+topP together (wrapper omits topP for Anthropic models). Next session: start Phase 2 — build reference idea corpus, nearest-neighbor novelty (M3).

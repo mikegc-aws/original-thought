@@ -1,0 +1,14 @@
+llama-3.3-70b / hot_t1.0: 4 clusters over 50 samples, collapse=0.84, vendi=2.85
+
+--- cluster of 42 ---
+"EchoPlex" is an immersive, interactive art experience that combines artificial intelligence, biometrics, and virtual reality to create a dreamlike world that evolves in response to the viewer's subconscious mind. Upon entering the EchoPlex, participants wear a specially designed headset that tracks their brain activity, heart rate, and other physiological signals, using this data to generate a unique, ever-changing environment that reflects their inner thoughts and emotions. As they navigate this surreal landscape, the AI-powered system learns and adapts to their subconscious patterns, creati
+
+--- cluster of 6 ---
+"EchoMorphs" is an immersive, AI-generated, and bioluminescent art installation that allows participants to transform into living, breathing sculptures. Upon entering the exhibit, visitors don specially designed, wearable devices that track their brain waves, heart rate, and movement patterns. This data is then used to generate a unique, three-dimensional, glowing avatar that mirrors the individual's emotional state and physical presence. As they navigate the darkened space, their avatar evolves and adapts, interacting with other attendees' morphs to create an ever-changing, symbiotic ecosyste
+
+--- cluster of 1 ---
+Imagine a virtual reality platform that utilizes AI-generated "dreamscapes" to help people overcome phobias and anxieties. Dubbed "Oneiro," this innovative system uses brain-computer interface technology to monitor users' subconscious thoughts and emotions, generating a personalized, ever-changing virtual environment that simulates the root causes of their fears. As users navigate these dreamlike scenarios, Oneiro's AI adapts and evolves the experience, gradually exposing them to controlled, manageable doses of the stimuli that trigger their phobias, allowing them to confront and overcome thei
+
+--- cluster of 1 ---
+"Echoes in the Abyss" is an immersive, AI-generated, underwater virtual reality experience that utilizes sonic resonance to create a symphony of whale songs, which in turn, generate a constantly evolving, bioluminescent environment. As participants don VR headsets and submerge themselves in the virtual ocean, their brain waves are monitored and translated into a unique melodic frequency, allowing them to harmonize with the whales and influence the luminescent landscape. This symbiotic interaction not only fosters a sense of empathy and connection with the marine ecosystem but also unlocks hidd
+

@@ -1,21 +1,21 @@
-claude-sonnet-4.6 / diversify_prompt: 8 clusters over 31 samples, collapse=0.355, vendi=6.97
+claude-sonnet-4.6 / diversify_prompt: 14 clusters over 50 samples, collapse=0.32, vendi=9.26
 
---- cluster of 11 ---
+--- cluster of 16 ---
 **Fermentation Cartography**
 
-A method of documenting and classifying wild fermentation cultures by the precise geographic microclimate in which they develop — not merely by region, as is loosely done with sourdough starters today, but by mapping the microbial fingerprint of cultures captured at specific altitudes, soil exposures, wind corridors, and seasonal humidity windows, then cross-referencing these fingerprints with the sensory profiles of the resulting ferments. The practical application would be a living atlas — updated annually — that allows brewers, bakers, and cheesemakers to delib
+A technique for artisan bread bakers in which the baker systematically maps the microbial "terroir" of a specific kitchen or bakery by maintaining dozens of small sourdough starter cultures simultaneously, each fed exclusively with water drawn from a different micro-source — rainwater collected from different roof angles, filtered tap water left open for varying durations, water passed through local soil samples — then cross-referencing the resulting flavor profiles, rise behaviors, and microbial compositions to create a living atlas of the local microbial landsca
 
---- cluster of 8 ---
-## Harvest Resonance Mapping
+--- cluster of 10 ---
+**Harvest Resonance Mapping**
 
-A technique for precision agriculture where soil moisture and nutrient density are assessed by embedding a network of small piezoelectric sensors just below the surface that detect the characteristic vibration signatures of root systems under different stress conditions. Rather than sampling soil directly, the system listens to how roots physically respond to water and mineral gradients — roots under drought stress exhibit subtly different mechanical micro-oscillations than healthy roots, detectable at frequencies between 20–400 Hz. A machine learning model traine
+A technique where small acoustic sensors are inserted at varying depths throughout a crop field to continuously record the subtle vibrational signatures produced by root systems as they absorb water and nutrients. Different stress conditions — drought, nitrogen deficiency, fungal infection — produce distinct mechanical micro-vibrations in root tissue that propagate through soil. By training a machine learning model on these acoustic fingerprints, farmers could receive real-time, spatially precise alerts about underground crop health days before any visible sympto
 
---- cluster of 5 ---
+--- cluster of 9 ---
 **Fermentation Fingerprinting for Personalized Bread**
 
 A bakery service that sequences the microbial community in a customer's home kitchen — swabbing their countertops, hands, and local air — and uses that unique microbial "fingerprint" to cultivate a sourdough starter specifically tuned to their environment. The resulting starter would be genuinely unreplicable elsewhere, producing a loaf that is biologically and chemically tied to that household. Over time, the service tracks how the starter evolves with the family, archiving annual microbial snapshots so customers can observe how moves, r
 
---- cluster of 2 ---
+--- cluster of 4 ---
 **Fermentation Passport**
 
 A small booklet — physical or digital — that travels with a long-term fermentation project (a sourdough starter, a barrel of vinegar, a miso crock) and accumulates a living record: periodic pH and temperature logs, tasting notes written by whoever tended it that week, pressed samples of the grain or grape harvest used, and a hand-drawn microbial "portrait" sketched from an amateur microscope slide. The passport is designed so that when the ferment changes hands — gifted to a neighbor, donated to a restaurant, passed down through a family — the new keeper inherits not
@@ -39,4 +39,34 @@ Community seed libraries already exist, but this idea extends them into a living
 **Seed-Embedded Sheet Music**
 
 Physical sheet music printed on seed paper embedded with wildflower or herb seeds corresponding thematically to each composition — so a piece written in a pastoral style might carry chamomile and clover, while a stormy nocturne carries thistle and dark basil. After the musician has learned the piece and no longer needs the score, rather than discarding it, they plant it. The act of burying the music becomes a ritual closing of the learning process, and over the growing season the performer tends the garden that their practice produced. Conservatories could mainta
+
+--- cluster of 1 ---
+**Phenological Sheet Music**
+
+A notation system for composers that maps real-time ecological data — first frost dates, migratory bird arrivals, bloom sequences of wildflowers — directly onto musical parameters. Each plant or animal species in a chosen region is assigned a voice or instrument, and the score is generated fresh each year from that season's actual phenological records rather than being fixed. A performance of "Spring in the Cairngorms, 2024" would therefore differ measurably from "Spring in the Cairngorms, 2019," with late frosts showing as harmonic delays, an early swallow arriva
+
+--- cluster of 1 ---
+**Temporal Flavor Journaling via Fermentation Mapping**
+
+A cookbook and accompanying methodology in which every recipe is built around a personal fermentation diary — but instead of tracking taste outcomes, the cook records *environmental variables* (barometric pressure, ambient humidity, household stress levels, seasonal light) alongside microbial results, then uses that longitudinal data to reverse-engineer a predictive "flavor weather map" unique to their kitchen. Over months, patterns emerge: your sourdough crumb opens up three days after a pressure drop, your miso develops unusual sweetne
+
+--- cluster of 1 ---
+**Resonance Pruning**
+
+A technique for orchards where small speaker arrays are mounted in fruit trees during the final weeks before harvest, emitting low-frequency vibrations tuned to the resonant frequency of the specific fruit variety. The vibrations gently agitate the vascular connections between fruit and stem in a controlled, graduated way — not enough to cause dropping, but enough to trigger the tree's natural abscission chemistry earlier and more uniformly than it would occur spontaneously. The result is a harvest window where an entire orchard ripens within a narrow two-to-three day sp
+
+--- cluster of 1 ---
+**Thermal Signature Cookbooks**
+
+A cookbook where every recipe is accompanied not by a photograph of the finished dish, but by a thermal camera image taken at the moment of serving — showing the heat gradients across the plate in false color. Readers would learn to "read" a dish's doneness, resting quality, and structural composition through its heat map: a perfectly rested steak showing a uniform warm glow versus an uneven one revealing where heat escaped too quickly. Home cooks would receive a small affordable thermal lens attachment for their phone and could share their own thermal shots on
+
+--- cluster of 1 ---
+**Resonance Harvesting in Orchestral Halls**
+
+Concert halls could be fitted with arrays of micro-piezoelectric panels embedded beneath the floor and within the walls — not for structural purposes, but to capture the mechanical vibration energy produced by sustained orchestral performance. A full symphony orchestra generates substantial low-frequency resonance that currently dissipates as heat in building materials. By tuning each panel cluster to specific frequency bands corresponding to strings, brass, and percussion sections, the system could selectively harvest energy most efficiently durin
+
+--- cluster of 1 ---
+**Pressure-Responsive Recipe Scaling**
+
+A cookbook format — physical or digital — where recipes are designed with embedded "stress variables" that automatically adjust not just ingredient quantities but *technique and flavor profile* based on how much time and cognitive load the cook currently has. Rather than simply halving a recipe, the system recognizes that a tired cook on a Tuesday night needs fewer knife cuts, more forgiving timing windows, and bolder seasoning to compensate for reduced attention — while the same dish prepared on a relaxed Sunday expands into a more delicate, layered ver
 

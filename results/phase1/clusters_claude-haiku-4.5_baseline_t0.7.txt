@@ -1,0 +1,57 @@
+claude-haiku-4.5 / baseline_t0.7: 11 clusters over 50 samples, collapse=0.52, vendi=7.33
+
+--- cluster of 26 ---
+# The Empathy Exchange
+
+A social platform where people anonymously swap daily lives with strangers for 24 hours—not physically, but through guided, real-time sensory documentation. Using smartphone cameras, audio, and haptic feedback, participants experience another person's commute, meals, work, relationships, and evening routine exactly as they live it, with AI filtering out identifying information. The twist: participants can't communicate during the exchange, only observe and feel. Afterward, they meet (still anonymous) in a moderated video chat to discuss what surprised them, what challen
+
+--- cluster of 8 ---
+# Temporal Debt
+
+A financial system where people can borrow and lend years of their lifespan as a currency. The wealthy can purchase additional years from those in financial hardship, creating a market where time literally becomes money—but with a twist: the borrowed years are randomly distributed throughout the borrower's remaining life as unpredictable extensions, forcing society to confront questions about mortality, inequality, and whether a longer life means anything if you don't know when it will actually end. Banks employ "Chronologists" to calculate risk, insurance companies bet on dea
+
+--- cluster of 3 ---
+# Reverse Memoir: A Life Told Backwards Through Objects
+
+A person creates a memoir not through chronological narrative or traditional storytelling, but by curating and describing 365 everyday objects they've accumulated—one for each day of a year—arranged in reverse order from present day backward to childhood. Each object entry reveals a moment, relationship, or decision, but readers must actively piece together the timeline and causality themselves, discovering how early choices ripple forward and how present circumstances echo past events. The format forces readers to experience life as a w
+
+--- cluster of 3 ---
+# Emotional Archaeology
+
+A social app that lets users excavate and reconstruct forgotten moments from their past by crowdsourcing memories from people who were tangentially present—the barista who served you coffee the day you met your ex, the stranger on the bus during your first panic attack, the neighbor who saw you move into your apartment. These "emotional witnesses" contribute small sensory details (what you wore, the weather, what song was playing) without knowing the full context, and the app uses AI to weave these fragments into a narrative that helps users rediscover lost significanc
+
+--- cluster of 2 ---
+# Reverse Mentorship Marketplace for Dying Skills
+
+A platform that pairs elderly people with specific obsolete or dying skills (analog photography, traditional bookbinding, mechanical watch repair, stenography, etc.) with younger people who want to learn them—but with a twist: the elderly mentors earn cryptocurrency or digital credits they can spend on modern services (grocery delivery, tech support, virtual companionship). This creates economic value for knowledge that society has deemed worthless, combats elder isolation through meaningful work, preserves disappearing crafts, and gives young
+
+--- cluster of 2 ---
+# Temporal Inheritance
+
+A world where people inherit not money or property, but *memories and skills* from their ancestors through DNA activation ceremonies at age 18. However, these inherited memories come with emotional baggage, trauma, and conflicting personalities—creating internal psychological conflicts as individuals navigate who they are versus who their ancestors were. The catch: the memories are fragmented and out of order, forcing people to piece together family history like a puzzle while managing the psychological weight of living multiple lives. Some people become addicted to act
+
+--- cluster of 2 ---
+# Temporal Nostalgia Markets
+
+A social platform where people can buy and sell "memory experiences"—not physical objects, but curated, AI-reconstructed moments from others' pasts. A user could purchase a stranger's cherished memory of their grandmother's kitchen in 1987, experiencing it through immersive VR with all sensory details intact, but filtered through the original owner's emotional perspective. The twist: memories degrade and fade over time like real memories do, creating scarcity and urgency. People monetize their most intimate moments while struggling with the philosophical question 
+
+--- cluster of 1 ---
+# Reverse Memory Inheritance
+
+A world where people don't inherit genetic traits, but instead inherit fragmented memories from their biological ancestors—experiencing random moments from their lives without context or chronological order. The protagonist discovers they're inheriting memories from someone who hasn't been born yet, forcing them to question whether they're experiencing glimpses of their descendant's future or if time itself is breaking down. As more people begin receiving "forward memories," society must grapple with whether they can change events they've seen, or if the act of re
+
+--- cluster of 1 ---
+# Temporal Empathy Therapy
+
+A therapeutic practice where patients use VR to experience pivotal moments from their loved ones' lives—not as observers, but inhabiting the loved one's sensory perspective, emotional state, and cognitive framework during that moment. A person estranged from their parent could experience their parent's perspective during a formative trauma, or a couple in conflict could relive their first meeting through each other's eyes and nervous systems simultaneously. The technology would use biometric feedback and AI to authentically reconstruct not just events, but the inter
+
+--- cluster of 1 ---
+# Reverse Nostalgia: A Museum of the Future
+
+A physical and digital museum that exhibits artifacts, predictions, and artistic interpretations of humanity's possible futures—but curated *by people from those imagined futures*. Visitors encounter objects and testimonies from fictional 2087, 2156, and 3024, created by contemporary artists, scientists, and writers roleplaying as historians from those eras, explaining how their present-day decisions led to specific outcomes. Rather than predicting what *will* happen, the museum shows what *could* happen based on choices made today, making the abstr
+
+--- cluster of 1 ---
+# Temporal Echoes: A Social Network for Your Past Self
+
+A social platform where users can only communicate with versions of themselves from different time periods—past, present, and future. You post messages, advice, warnings, and questions that your past self (via AI reconstruction of your digital footprint and memories) and future self (via predictive algorithms) can respond to. The catch: you can only see responses after a set time delay, creating genuine uncertainty about what your future self will become. It's part journal, part therapy, part time-travel conversation, designed to help peo
+

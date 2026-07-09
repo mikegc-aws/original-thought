@@ -1,0 +1,72 @@
+claude-haiku-4.5 / hot_t1.0: 14 clusters over 50 samples, collapse=0.28, vendi=11.19
+
+--- cluster of 14 ---
+# Temporal Debt
+
+A financial system where people borrow and repay time itself rather than money. Wealthy individuals can sell portions of their remaining lifespan to a global exchange, receiving immediate resources, while others can purchase additional years to extend their lives or pursue delayed dreams. The catch: a mysterious algorithm determines each person's remaining lifespan at birth, creating a market where life expectancy becomes tradeable currency. This generates profound class divides—the rich literally live longer by purchasing years from the desperate poor—while the algorithm's pr
+
+--- cluster of 14 ---
+# The Empathy Exchange
+
+A social platform where users anonymously swap daily lives with strangers for a single day through immersive video streams—living someone else's routine, job, relationships, and challenges in real-time with full sensory feedback. The twist: both participants watch each other's experience simultaneously but from their own perspective, then engage in a structured dialogue afterward to discuss the misconceptions they held. Unlike typical perspective-taking exercises, the platform uses algorithm-matching to deliberately pair people from opposing worldviews, socioeconomic ba
+
+--- cluster of 5 ---
+# The Memory Exchange
+
+A service that allows people nearing the end of their lives to sell their most cherished memories—not as recordings, but as experiential implants that let buyers literally *live* those moments with all original emotions intact. A dying artist could pass on the exact sensation of painting their masterpiece; a grandmother could let her grandchild experience her wedding day as she felt it. However, the twist: memories degrade with each transfer, and buyers discover that living someone else's perfect moment makes their own life feel hollow by comparison, sparking a black mar
+
+--- cluster of 4 ---
+# Reverse Mentorship Marketplace for Life Skills
+
+A platform where elderly individuals (65+) with decades of accumulated practical knowledge—from home repair and cooking to conflict resolution and financial planning—become paid mentors to younger generations through short, task-specific video sessions. Rather than the typical wisdom-sharing model, mentees book 15-30 minute sessions to learn *how* an experienced person would actually *do* something, watching real-time problem-solving. The elderly mentors gain income, purpose, and connection; younger people get affordable, hyper-practical expert
+
+--- cluster of 4 ---
+# Temporal Inheritance
+
+A person discovers they can access the memories and skills of their ancestors, but only by physically touching objects those ancestors owned—and each access costs them an equivalent memory of their own. As they build a museum of inherited knowledge to solve a present-day mystery, they must decide which of their own memories are worth sacrificing. The twist: they gradually realize some of their most cherished personal memories aren't actually theirs, but borrowed from ancestors they never knew, forcing them to question what makes an identity truly their own.
+
+--- cluster of 1 ---
+# Reverse Memoir: A Life Told Backwards Through Objects
+
+A narrative nonfiction work where a person tells their life story not chronologically, but through physical objects they've accumulated—starting with their deathbed and working backward. Each object (a wedding ring, a hospital bracelet, a child's drawing, a rejection letter, a first paycheck stub) becomes a portal that reveals a different life chapter, but the emotional weight and significance of each object shifts as we move backward through time, forcing readers to constantly recontextualize what they thought they understood. The struc
+
+--- cluster of 1 ---
+# Emotional Archaeology: A Platform That Reconstructs Your Past Self Through Your Digital Footprint
+
+An app that uses machine learning to analyze your social media posts, messages, photos, and search history across years—not to target you with ads, but to create a "museum of your former selves." It generates interactive exhibits that show who you were at different life stages, capturing your evolving beliefs, interests, relationships, and personality through your own authentic digital traces. Rather than curating a highlight reel, it honestly reflects your growth, contradictions, and changes. 
+
+--- cluster of 1 ---
+# Reverse Time-Loop Therapy
+
+A therapist discovers they can enter their patients' recurring nightmares and experience them authentically, but with each nightmare they enter, they lose one personal memory. As the therapist helps more patients break their cycles, they gradually forget why they became a therapist in the first place—eventually confronting the possibility that they themselves were once a patient whose trauma another therapist absorbed, and that cycle may be repeating infinitely backward through time.
+
+--- cluster of 1 ---
+# Reverse Obituary: A Living Legacy Platform
+
+An app that lets people write positive "obituaries" about themselves *while still alive*, focusing on the impact they've had on specific individuals and communities. Instead of waiting for death to be commemorated, users document meaningful moments, kindnesses, and connections they've created. Friends and family can add their own witnessing of these moments. Upon death, these become actual obituaries—but crucially, the living version becomes a searchable historical archive where anyone facing a similar life challenge can find real stories of how a 
+
+--- cluster of 1 ---
+# Temporal Empathy Mapping
+
+An app that records your daily micro-emotions (brief mood snapshots throughout the day) alongside environmental data, then uses AI to identify the specific people, places, or activities that consistently shift your emotional baseline. Instead of just tracking mood, it creates a "emotional signature map" showing which relationships or environments are net-positive or net-negative for your wellbeing over time. The novel twist: it allows you to privately share anonymized patterns with trusted friends to discover surprising misalignments—like realizing your best friend'
+
+--- cluster of 1 ---
+# Collaborative Forgetting Networks
+
+A social platform where users deliberately co-create false shared memories with strangers—fabricating detailed, emotionally resonant stories about events they never experienced together. Over time, these "false friends" build entire friendship histories that exist only in their shared fiction. The twist: participants can choose to either keep these memories private (as creative exercises) or gradually merge them into real-world meetups, blurring the line between imagination and actual relationships. The app tracks how these fictional bonds sometimes become 
+
+--- cluster of 1 ---
+# Reverse Nostalgia Museums
+
+Museums where visitors experience carefully curated exhibits of everyday objects and moments from *their own recent past* (last 5-10 years)—personalized through data they voluntarily share. Instead of ancient artifacts, you'd see your own digital footprints, forgotten photos, old text conversations, products you owned, and cultural moments from your specific timeline, all presented with scholarly analysis of how *you've* changed. It's anthropology of the self, reminding people that their recent history is already becoming alien and worthy of study. Exhibits could c
+
+--- cluster of 1 ---
+# Temporal Apprenticeship
+
+A novel concept where individuals can petition to apprentice under a historical figure for one week—literally traveling backward in time to learn their craft directly. The catch: the historical figure is unaware of their true identity and believes the apprentice is simply a talented newcomer. The apprentice must navigate the ethical minefield of potentially preventing or causing historical events while learning, and they return to the present with knowledge but haunted by the question of whether they actually influenced history or merely observed a predetermined time
+
+--- cluster of 1 ---
+# Temporal Empathy Chambers
+
+A service that uses advanced VR combined with AI-generated reconstructions of historical figures' documented thoughts, writings, and decisions to let people experience pivotal moments from the decision-maker's psychological perspective—not as a passive observer, but as an active participant facing the same constraints, incomplete information, and emotional pressures they faced in real-time. Users would have to make the same choice without knowing the outcome, then experience the consequences unfold as history actually did, forcing a visceral reckoning with how reas
+

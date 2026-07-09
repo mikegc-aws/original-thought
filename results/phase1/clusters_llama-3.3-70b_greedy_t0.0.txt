@@ -1,0 +1,5 @@
+llama-3.3-70b / greedy_t0.0: 1 clusters over 50 samples, collapse=1.0, vendi=1.08
+
+--- cluster of 50 ---
+"EchoPlex" is an immersive, interactive art installation that utilizes AI-generated, bioluminescent microorganisms to create a symbiotic relationship between humans and the environment. Upon entering the EchoPlex, visitors wear specially designed, wearable devices that track their brain activity, heart rate, and emotional responses. This data is then used to influence the growth, color, and pattern of the microorganisms, which are suspended in a large, transparent dome. As visitors navigate the space, their unique biometric signatures create a constantly evolving, ethereal landscape that refle
+

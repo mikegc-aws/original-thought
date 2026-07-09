@@ -1,0 +1,7 @@
+claude-haiku-4.5 / greedy_t0.0: 1 clusters over 50 samples, collapse=1.0, vendi=1.0
+
+--- cluster of 50 ---
+# Temporal Debt
+
+A financial system where people borrow and repay in units of time rather than money. When you need something—a meal, medical care, education—you receive it immediately but accrue "temporal debt" measured in hours of future labor. The twist: your debt can be transferred, traded, or inherited, creating a shadow economy where time becomes literally commodified. The story follows a society grappling with the moral implications when some people are born into massive temporal debt they can never escape, while others trade their future time for present luxury, leading to a new form o
+
