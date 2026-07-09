@@ -1,0 +1,52 @@
+claude-sonnet-4.6 / hot_t1.0: 10 clusters over 50 samples, collapse=0.54, vendi=7.36
+
+--- cluster of 27 ---
+## The Grief Cartographer
+
+A mobile app that lets users map their grief spatially rather than temporally. Instead of tracking emotional stages or journaling by date, users pin memories, losses, and emotional weight onto a personal landscape they literally design — a terrain that shifts and evolves. A mountain might represent an overwhelming loss; a fog-covered valley might mark confusion after a death; a clearing that slowly grows sunlit represents healing. The map never asks users to "move on" — instead it shows how the landscape *expands*, so old grief doesn't shrink but rather becomes a sma
+
+--- cluster of 6 ---
+## The Memory Inheritance Archive
+
+A platform where terminally ill individuals can undergo a series of structured, guided interviews that capture not just stories and facts, but **decision-making frameworks** — the specific reasoning patterns, value hierarchies, and heuristics a person uses when facing difficult choices. Using a combination of recorded scenarios, hypothetical dilemmas, and life retrospectives, the archive creates a kind of "wisdom profile" that surviving family members can later consult. The interface would present it not as a chatbot mimicking the deceased, but as a **structu
+
+--- cluster of 6 ---
+## The Memory Auction
+
+A social platform where people sell their **genuine autobiographical memories** as immersive narrative experiences — not photos or videos, but deeply written first-person accounts verified through a blockchain-based "emotional authenticity protocol" that cross-references physiological response data collected during writing (heart rate, micro-pauses, rewrite patterns). Buyers don't just read the memory — they receive a personalized "inhabitation guide," a set of sensory anchors like specific music, scents, and physical postures scientifically calibrated to help the reader
+
+--- cluster of 3 ---
+## The Emotional Archaeology App
+
+An app that analyzes your old text messages, emails, and journal entries — not to summarize them, but to map the **emotional sediment** of your past self. It identifies recurring moments where you almost made a different decision, flagging them not as regrets but as "dormant paths" — choices that still have living echoes in your current behavior. Rather than a timeline or a mood graph, it presents your history as a **geological cross-section**, where deeper layers reveal the foundational emotional patterns still quietly shaping you today. The goal isn't therap
+
+--- cluster of 2 ---
+## The Empathy Ledger
+
+A mobile app that lets users **donate their future good moods** to strangers. When you're feeling genuinely happy, you record a 60-second unscripted voice message describing exactly why — the specific smell of the coffee, the unexpected text from a friend, the way the light looked. The message gets held in a "ledger" and algorithmically matched to a stranger experiencing a measurably similar life circumstance to yours at the time of recording. They receive your message only when sensor data and self-reported inputs suggest they're in a low emotional state. You never know
+
+--- cluster of 2 ---
+## The Empathy Mirror
+
+A social media platform where you can only post content **from someone else's perspective**. Before publishing anything, you must first answer three questions about the person or group your post is about — their likely fears, motivations, and circumstances — and your answers become permanently attached to the post for all readers to see. An AI moderator flags posts where the perspective answers appear shallow or contradictory to the content, prompting revision. The result is a network where the act of sharing opinion or news requires demonstrated understanding of the sub
+
+--- cluster of 1 ---
+## The Inheritance Auction
+
+A social platform where dying people can auction off their **personality traits, habits, and life philosophies** — not their possessions — to strangers. Before death, a person records detailed documentation of a skill, a hard-won perspective, a personal ritual, or a way of seeing the world. Bidders don't pay with money; they pay with a **commitment contract** — a legally and socially enforced pledge to genuinely practice and carry that trait for a minimum of one year, verified through journaling and a community of witnesses. The idea reframes legacy from what you *o
+
+--- cluster of 1 ---
+## The Borrowed Senses Archive
+
+A platform where people with synesthesia record and upload their perceptual experiences as layered sensory files — so that a person who "hears" the color red as a low brass note, or "tastes" the number seven as cold aluminum, can encode that experience using biometric and audio-visual mapping tools. Others can then "borrow" these perception profiles temporarily through a calibrated audio-haptic interface, allowing non-synesthetes to briefly experience the world through an entirely different sensory logic. The deeper twist is a growing research layer: as thousand
+
+--- cluster of 1 ---
+## The Borrowed Conscience
+
+A social app where users anonymously submit a decision they're currently paralyzed by, and instead of receiving advice, they receive someone else's *actual lived regret* — a brief, unfiltered account from a stranger who already made that exact type of choice and is now living with the consequence. No opinions, no recommendations, just raw retrospective truth from someone downstream of where you currently stand. The platform matches submissions not by topic keywords but by the underlying emotional architecture of the dilemma — the fear pattern, the relationship dynam
+
+--- cluster of 1 ---
+## The Borrowed Light Archive
+
+A platform where people record and submit **the exact moment they finally understood something** — not the explanation itself, but the precise sensory and emotional context surrounding the breakthrough. Someone might describe the specific slant of afternoon light, the half-eaten sandwich on their desk, and the low hum of a refrigerator during the moment calculus suddenly made sense. Another person captures the smell of rain and the feeling of worn carpet under their feet when they finally understood what their father meant by something he said years earlier. The 
+

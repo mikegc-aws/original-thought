@@ -1,0 +1,32 @@
+claude-sonnet-4.6 / baseline_t0.7: 6 clusters over 50 samples, collapse=0.7, vendi=4.44
+
+--- cluster of 35 ---
+## The Grief Cartographer
+
+A mobile app that lets users map their grief spatially rather than chronologically. Instead of journaling in linear entries, users pin emotional memories to a personal, abstract landscape that evolves over time — mountains represent overwhelming moments, valleys show periods of numbness, and rivers mark the flow between them. The map never resets; it grows and shifts as new experiences are added, so users can visually watch grief transform into something textured and navigable rather than something that simply "ends." A therapist or trusted contact can be given view-
+
+--- cluster of 6 ---
+## The Memory Auction House
+
+A platform where people can sell **verified emotional memories** — not recordings, but written testimonials paired with physiological data (heart rate, cortisol levels, brainwave patterns collected during recall) that act as a kind of authenticity certificate. Someone who witnessed a historic moment, survived something extraordinary, or experienced a profound personal transformation could auction their *documented emotional experience* to writers, filmmakers, therapists, or researchers who want genuine human texture they couldn't otherwise access. The buyer receive
+
+--- cluster of 5 ---
+## The Memory Inheritance Archive
+
+A platform where elderly individuals, rather than writing traditional memoirs, undergo structured "memory mapping" sessions where they narrate not their *achievements* or life story, but specifically their **mistakes, regrets, and the lessons they extracted too late**. These recordings are then matched algorithmically to younger people facing eerily similar crossroads decisions in real time — a 25-year-old about to abandon a relationship for career reasons gets connected to an 80-year-old's recorded reflection on making that exact trade-off decades earlier. T
+
+--- cluster of 2 ---
+## The Empathy Mirror
+
+A social media platform where you can only post content *as someone you've argued with online*. Before publishing anything, you must pass a short quiz proving you accurately understand the other person's stated position. Your profile isn't your own identity — it's a rotating gallery of people whose views you've genuinely engaged with. Reputation points are earned not for likes, but for how accurately strangers rate your portrayal of the opposing perspective. The goal isn't agreement or debate — it's demonstrated comprehension. You essentially build a public record of how
+
+--- cluster of 1 ---
+## The Empathy Tax
+
+A social media platform where every account has a limited daily "attention budget" — but instead of spending it on likes or followers, users must *donate cognitive effort* to access content. Before reading any post, you're shown a 15-second first-person audio clip from someone whose life circumstances are radically different from yours (determined by your usage patterns and demographic data). You cannot skip it. The catch: the platform's algorithm is specifically designed to *reduce* engagement and time-on-site, optimizing instead for the quality of one interaction per day 
+
+--- cluster of 1 ---
+## The Emotional Archaeology App
+
+An app that analyzes the *spaces between your words* — the pauses, the topics you avoid, the subjects you circle back to repeatedly — across your journal entries, voice memos, and messages over time. Rather than tracking what you explicitly say about your feelings, it maps what your language patterns suggest you're *processing unconsciously*, then presents findings as a layered excavation site visualization, where deeper emotional material appears buried beneath surface-level concerns. Users can "dig" into specific emotional strata, seeing how a current anxiet
+

@@ -1,0 +1,5 @@
+model,config,n,mean_pairwise_dist,vendi,n_clusters,collapse_ratio
+claude-sonnet-4.6,baseline_t0.7,50,0.422,4.44,6,0.7
+claude-sonnet-4.6,diversify_prompt,31,0.5985,6.97,8,0.355
+claude-sonnet-4.6,greedy_t0.0,50,0.0206,1.14,1,1.0
+claude-sonnet-4.6,hot_t1.0,50,0.5391,7.36,10,0.54

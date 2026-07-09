@@ -1,0 +1,7 @@
+claude-sonnet-4.6 / greedy_t0.0: 1 clusters over 50 samples, collapse=1.0, vendi=1.14
+
+--- cluster of 50 ---
+## The Grief Cartographer
+
+A mobile app that lets users map their grief spatially rather than chronologically. Instead of journaling through time, users pin emotional memories to an interactive, abstract landscape that shifts and evolves — mountains form where grief feels heavy, rivers carve through areas of acceptance, fog settles over unresolved feelings. Over months, the map transforms visually as the user processes loss, creating a living, personal geography of healing. A therapist or trusted friend can be granted access to "walk through" the landscape alongside the user, experiencing the 
+
