@@ -1,0 +1,100 @@
+========== LEAST NOVEL (closest corpus match) ==========
+
+[nova-pro/baseline_t0.7] dist=0.400
+GENERATION: Imagine a wearable, AI-driven "Empathy Enhancer" device that subtly interprets and translates human emotions through a combination of biometric sensors and machine learning algorithms. This device would not only detect the wearer's emotional state in real-time but also communicate these feelings to others via gentle, customizable haptic feedback or ambient color changes. Additionally, it could off
+NEAREST REAL IDEA (yc/anoria): The first wearable that reads your emotions to enhance your EQ.. We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes train
+
+[nova-pro/baseline_t0.7] dist=0.402
+GENERATION: Imagine a wearable technology, "EmotionSync," that translates an individual's real-time emotional state into a customizable light and color display on the clothing they wear. Utilizing advanced sensors and AI algorithms, EmotionSync detects subtle physiological changes such as heart rate variability, skin conductance, and facial expressions to discern emotions like joy, sadness, anger, or calm. Th
+NEAREST REAL IDEA (yc/anoria): The first wearable that reads your emotions to enhance your EQ.. We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes train
+
+[nova-pro/diversify_prompt] dist=0.405
+GENERATION: In the realm of music, a novel concept involves creating a dynamic, AI-driven instrument that responds to the emotional states of its performers and audience in real-time. This instrument, equipped with biometric sensors and machine learning algorithms, analyzes physiological data such as heart rate, skin conductance, and even brainwave patterns. As the performers play, the instrument subtly adapt
+NEAREST REAL IDEA (arxiv/2604.23583v1): Opening the Design Space: Two Years of Performance with Intelligent Musical Instruments. Machine generation of symbolic music and digital audio are hot topics but there have been relatively few digital musical instruments that integrate generative AI. Present musical AI tools are not artist centred and do not support experimentation or integrating into musical instruments or practices. This work i
+
+[nova-pro/baseline_t0.7] dist=0.406
+GENERATION: Imagine a wearable technology called "EmoGear" that translates human emotions into tangible experiences for others. This innovative device consists of a lightweight, comfortable wristband equipped with sensors that detect the wearer's emotional state through physiological signals like heart rate variability, skin conductance, and facial expression analysis. When a wearer experiences a strong emoti
+NEAREST REAL IDEA (yc/anoria): The first wearable that reads your emotions to enhance your EQ.. We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes train
+
+[nova-pro/greedy_t0.0] dist=0.409
+GENERATION: Imagine a wearable, AI-driven "Empathy Enhancer" device that translates subtle emotional cues from one person to another in real-time. This device would use advanced biometric sensors to detect physiological signals like heart rate, skin conductance, and facial expressions, then employ machine learning algorithms to interpret these signals into emotional states. Through haptic feedback and subtle 
+NEAREST REAL IDEA (yc/anoria): The first wearable that reads your emotions to enhance your EQ.. We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes train
+
+[nova-pro/baseline_t0.7] dist=0.411
+GENERATION: Imagine a wearable technology called "Emotion Echo," a sophisticated garment embedded with biometric sensors and AI-driven algorithms designed to detect and replicate the wearer's emotional state through subtle color changes and haptic feedback. Unlike existing mood-sensing devices that primarily offer data insights, Emotion Echo actively communicates the wearer's feelings in real-time to those ar
+NEAREST REAL IDEA (yc/anoria): The first wearable that reads your emotions to enhance your EQ.. We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes train
+
+[nova-pro/greedy_t0.0] dist=0.416
+GENERATION: Imagine a wearable, AI-driven "Empathy Enhancer" device that translates subtle emotional cues from one person to another in real-time. This device would use advanced biometric sensors to detect physiological signals like heart rate, skin conductance, and micro-expressions, then employ machine learning algorithms to interpret these signals into understandable emotional states. Through haptic feedba
+NEAREST REAL IDEA (yc/anoria): The first wearable that reads your emotions to enhance your EQ.. We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes train
+
+[nova-pro/baseline_t0.7] dist=0.417
+GENERATION: Imagine a wearable technology, akin to a smartwatch, that utilizes advanced biometric sensors and AI algorithms to monitor an individual's emotional and physiological states in real-time. This device, which we could call the "EmoGuard," would not only track stress levels, heart rate, and other vital signs but also predict emotional triggers based on past data. When it detects a potential emotional
+NEAREST REAL IDEA (yc/anoria): The first wearable that reads your emotions to enhance your EQ.. We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes train
+
+[nova-pro/greedy_t0.0] dist=0.417
+GENERATION: Imagine a wearable, AI-driven "Empathy Enhancer" device that translates subtle emotional cues from one person to another in real-time. This device would use advanced biometric sensors to detect micro-expressions, heart rate variability, and even pheromones to gauge the wearer's emotional state. It would then use machine learning algorithms to interpret these signals and transmit them via a secure,
+NEAREST REAL IDEA (yc/anoria): The first wearable that reads your emotions to enhance your EQ.. We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes train
+
+[nova-pro/greedy_t0.0] dist=0.420
+GENERATION: Imagine a wearable, AI-driven "Empathy Enhancer" device that translates subtle emotional cues from one person to another in real-time. This device uses advanced biometric sensors to detect micro-expressions, heart rate variability, and even pheromones to gauge the wearer's emotional state. It then employs machine learning algorithms to interpret these signals and transmits them via a secure, encry
+NEAREST REAL IDEA (yc/anoria): The first wearable that reads your emotions to enhance your EQ.. We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes train
+
+========== MOST NOVEL (farthest from corpus) ==========
+
+[claude-haiku-4.5/random_seed_words] dist=0.772
+GENERATION: # The Tide Keeper
+
+A retired lighthouse keeper discovers that the old bellows in her waterfront cottage can literally "breathe" back the ocean's memories—each pump releases a ghostly scene from the wharf's past, visible only to her. She becomes obsessed with uncovering a century-old maritime mystery by collecting these fragmented visions, but realizes the bellows are showing her increasingly recen
+NEAREST REAL IDEA (arxiv/2606.18260v1): FluidViews: Adaptive Drag-and-Drop Token Filters for Heterogeneous Multi-View Visual Analytics. Interactive visual analytics workflows are often disrupted by rigid filter panels and context switches that break analysts' cognitive flow. We introduce FluidViews, a web-based framework that elevates filters to first-class, manipulable objects through two novel direct-manipulation interactions. Copy-as
+
+[nova-pro/random_seed_words] dist=0.764
+GENERATION: Imagine a world where ancient wisdom is preserved in the form of "Glaciohives"—massive, labyrinthine structures carved into glaciers by a secretive order of monks. These monks, known as the Cryokeepers, believe that knowledge and history are best preserved in the coldest, most stable environments. Within the Glaciohives, intricate ice chambers house holographic recordings of lost civilizations, en
+NEAREST REAL IDEA (arxiv/2605.21517v1): The Ephemeral Web and the Case for Proactive Archiving. The web is often treated as a durable record of institutional and social life, yet in practice it is fragile, revisable, and frequently ephemeral. Domains change, redesigns erase earlier material, institutions relocate, maintainers graduate, platforms impose silent limits, and periods of political instability can interrupt digital access enti
+
+[claude-haiku-4.5/baseline_t0.7] dist=0.757
+GENERATION: # Reverse Memory Inheritance
+
+A world where people don't inherit genetic traits, but instead inherit fragmented memories from their biological ancestors—experiencing random moments from their lives without context or chronological order. The protagonist discovers they're inheriting memories from someone who hasn't been born yet, forcing them to question whether they're experiencing glimpses of the
+NEAREST REAL IDEA (arxiv/2604.06773v1): MemoryDiorama: Generating Dynamic 3D Diorama from Everyday Photos for Memory Recall. We present MemoryDiorama, a prototype system that introduces augmented memory cues, a concept that extends captured personal media with AI-generated contextual information to enhance autobiographical memory recall. MemoryDiorama transforms everyday photos into dynamic 3D dioramas in mixed reality by integrating LL
+
+[nova-pro/random_seed_words] dist=0.756
+GENERATION: Imagine a futuristic urban farming system where "pendulum composters" are integrated into the architecture of high-rise buildings. These pendulum composters consist of large, pendulum-like arms that swing back and forth, powered by the kinetic energy of the building's occupants as they move throughout the day. As the pendulum swings, it activates a series of compost tumblers located at the end of 
+NEAREST REAL IDEA (yc/four-growers): Robots that feed the world - robotic harvesting and analytics. Four Growers was founded to provide healthy, affordable, local produce by reducing the production costs of greenhouse growers through robotics technology. We are positioning ourselves to be the automated solutions provider for greenhouse crop management. We are working closely with various greenhouse growers to develop a tomato harvest
+
+[claude-sonnet-4.6/diversify_prompt] dist=0.754
+GENERATION: **Fermentation Passport**
+
+A standardized but personally curated physical booklet — analogous to a travel passport — that a fermentation practitioner fills over years of practice, documenting each live culture they have cultivated, traded, or received. Each entry would include a pressed or dried sample of the pellicle or colony, handwritten notes on flavor profile and origin, and a unique stamp fr
+NEAREST REAL IDEA (yc/cb-therapeutics): Fermentation-derived natural products to solve health problems. CB Therapeutics engineers microbes to produce high-value ingredients for medicines, supplements, and other wellness products through sustainable biomanufacturing.
+
+[nova-pro/random_seed_words] dist=0.752
+GENERATION: Imagine a post-apocalyptic world where humanity has retreated underground to escape the ravages of climate change. The subterranean cities are built upon vast, shifting dunes of repurposed, pulverized gravel, creating a dynamic and ever-changing landscape. These gravel dunes not only serve as the foundation for the cities but also as a means of energy generation—as the dunes shift with the movemen
+NEAREST REAL IDEA (yc/aice): Submarine drones for defense. We are building the next generation of underwater defense systems: autonomous swarms of modular marine drones to secure naval assets and coastal infrastructure against evolving underwater threats.
+
+[claude-haiku-4.5/baseline_t0.7] dist=0.747
+GENERATION: # Temporal Inheritance
+
+A world where people inherit not money or property, but *memories and skills* from their ancestors through DNA activation ceremonies at age 18. However, these inherited memories come with emotional baggage, trauma, and conflicting personalities—creating internal psychological conflicts as individuals navigate who they are versus who their ancestors were. The catch: the memo
+NEAREST REAL IDEA (arxiv/2604.13996v1): Acts of Configuration: Rethinking Provenance, Temporality and Legitimacy in Post-Mortem Agents. Work on persona-persistent post-mortem agents typically frames design around a life/death binary. This framing neglects a consequential yet under-theorised condition: when individuals remain alive but have impaired decisional capacity. Drawing on a multi-phase workshop in which participants trained and 
+
+[nova-pro/random_seed_words] dist=0.744
+GENERATION: Combining the essence of 'dune' and 'vane,' imagine a floating city that navigates the skies using massive, adjustable sails called "Dunevanes." These Dunevanes are not only crucial for propulsion but also serve as energy harvesters, capturing solar and wind power to sustain the city's needs. Each Dunevane is an intricate structure, adorned with luminescent bio-engineered plants that bloom in resp
+NEAREST REAL IDEA (arxiv/2606.00032v1): Metaverse in Smart Cities: Transforming Urban Life and Governance. The integration of metaverse technologies within Smart Cities is transforming urban governance and citizen engagement. Despite the increasing academic and industry interest, research on the practical applications of the metaverse in SCs remains fragmented. This study addresses this gap through a systematic literature review on how 
+
+[claude-sonnet-4.6/random_seed_words] dist=0.744
+GENERATION: Here's an idea inspired by those two words:
+
+**Breathing Architecture**
+
+A structural framework for buildings where the walls themselves are designed as a living respiratory system — not just passive insulation, but a latticed internal network of flexible, accordion-like channels that slowly expand and contract in response to indoor CO2 levels. As occupants breathe and carbon dioxide accumulates, 
+NEAREST REAL IDEA (arxiv/2606.09847v1): Designing Vibes in a Science Museum: from @Science to @hugging_face. While feminist and critical data theories have long critiqued the use of data to uphold a positivist-informed view about science, few examples offer alternative methods to display scientific constructs. In response, we present Data and Me: an exhibit informed by feminist and critical data theories, which we designed and launched 
+
+[claude-haiku-4.5/random_seed_words] dist=0.741
+GENERATION: # Chromatic Decay
+
+A biotechnology startup develops genetically modified moss that absorbs and refracts light differently depending on air quality—acting as a living, color-shifting pollution monitor. As smog increases, the moss shifts from vibrant greens through yellows and oranges to deep browns, creating a visible "living prism" that changes the aesthetic appearance of cities in real-time. Buil
+NEAREST REAL IDEA (yc/moss): Real-time semantic search for Conversational AI. Moss is building the real-time semantic search runtime for conversational and multimodal AI. Our system enables voice agents, copilots, and chat interfaces to retrieve, reason, and respond in sub-10 ms, delivering the responsiveness that makes AI interactions feel truly natural.
+
+If you’ve ever built a conversational or voice AI product, you’ve fe
+

@@ -7,8 +7,10 @@
 
 ## Current state
 
-- **Active phase:** Phase 1 COMPLETE ✅ — next up: Phase 2 (novelty vs reference corpus).
-- **Key result so far:** Mike's mode-collapse observation replicated and explained — collapse ratio 0.7–1.0 at bare-prompt/default settings, but recoverable to 0.04–0.10 with random seed words at no coherence cost. Each model has a *different* pet idea, but all in the same genre. See `docs/02_frontier_study.md`.
+- **Active phase:** Phases 1 & 2 COMPLETE ✅ — next up: Phase 3 (small models on EC2 GPU).
+- **Key results so far:**
+  - Phase 1: Mike's mode-collapse observation replicated and explained — collapse ratio 0.7–1.0 at bare-prompt/default settings, recoverable to 0.04–0.10 with random seed words at no coherence cost. See `docs/02_frontier_study.md`.
+  - Phase 2: median model "idea" is about as far from existing ideas as real ideas are from each other (ordinary recombination). But Nova Pro's pet idea is a near-duplicate of the YC company Anoria while claiming "never been done" — models can't verify their novelty claims. Embedding novelty is only a proxy → Phase 3 is the load-bearing experiment. See `docs/03_novelty_analysis.md`.
 - **AWS:** account 680624154995, region `us-east-1`, role `Admin/mikegc-Isengard`.
 - **EC2 GPU:** ⚠️ NOT YET PROVISIONED. Will be created for Phase 3. Always check it is **stopped** when pausing work: `scripts/gpu_down.sh` (to be written in Phase 3).
 - **Spend so far:** ~$5–10 Bedrock inference (1,000 generations + 1,000 embeddings + 300 Opus judge calls).
@@ -43,10 +45,10 @@ Models (inference profile IDs):
 
 Embeddings: `amazon.titan-embed-text-v2:0`.
 
-### Phase 2 — Novelty vs reference corpus
-- [ ] Build reference idea corpus
-- [ ] Nearest-neighbor novelty analysis (interpolation vs extrapolation)
-- [ ] `docs/03_novelty_analysis.md`
+### Phase 2 — Novelty vs reference corpus ✅ COMPLETE
+- [x] `experiments/phase2_corpus.py` — 9,445 real ideas (YC companies + arXiv cs.HC/cs.CY), Titan-v2 embedded
+- [x] `experiments/phase2_analyze.py` — NN novelty vs human baseline (median 0.548), extremes for reading
+- [x] `docs/03_novelty_analysis.md` — findings F5–F8; H3 mostly refuted; Nova≈Anoria duplicate found
 
 ### Phase 3 — Small-model study (EC2 GPU)
 - [ ] `scripts/gpu_up.sh` / `scripts/gpu_down.sh` — provision/stop g6-class instance
@@ -70,4 +72,5 @@ Embeddings: `amazon.titan-embed-text-v2:0`.
 ## Session log
 
 - **2026-07-09** — Project kickoff. Repo scaffolded (uv, git). Bedrock model availability confirmed. Started Phase 0 doc + Phase 1 code.
-- **2026-07-09 (cont.)** — Phase 0 definitions doc written (`docs/01_definitions.md`, hypotheses H1–H5 pre-registered). Phase 1 fully executed: 1,000 generations, embedding+cluster analysis, Opus-judge quality scoring, findings written up. Gotcha discovered: Claude 4.5+ on Bedrock rejects temperature+topP together (wrapper omits topP for Anthropic models). Next session: start Phase 2 — build reference idea corpus, nearest-neighbor novelty (M3).
+- **2026-07-09 (cont.)** — Phase 0 definitions doc written (`docs/01_definitions.md`, hypotheses H1–H5 pre-registered). Phase 1 fully executed: 1,000 generations, embedding+cluster analysis, Opus-judge quality scoring, findings written up. Gotcha discovered: Claude 4.5+ on Bedrock rejects temperature+topP together (wrapper omits topP for Anthropic models).
+- **2026-07-09 (cont.)** — Phase 2 executed end-to-end: corpus built (YC via yc-oss API, arXiv via export API w/ 3s politeness delay), embedded, NN-novelty computed with human-baseline calibration, findings written. Spend now ≈ $6–12 total. Next session: Phase 3 — write gpu_up/gpu_down scripts, design synthetic combinational domain, train scale sweep on EC2 GPU.
