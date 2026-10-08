@@ -1,7 +1,7 @@
 """Phase 1 analysis.
 
 Reads data/phase1/generations.jsonl, embeds every response with Titan v2, then per
-(model, config) cell computes the diversity metrics fixed in docs/01_definitions.md:
+(model, config) cell computes the diversity metrics defined in the README:
 
   M1 output diversity  — mean pairwise cosine distance; Vendi score (effective number
                          of distinct ideas: exp of the von Neumann entropy of the

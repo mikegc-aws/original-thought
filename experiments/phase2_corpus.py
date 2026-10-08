@@ -1,7 +1,7 @@
 """Phase 2 reference corpus builder.
 
 Assembles a corpus of *real, existing* ideas to measure model-output novelty against
-(metric M3 in docs/01_definitions.md):
+(novelty metric M3 — see README and the writeup at blog.mikegchambers.com):
 
   - YC companies (public yc-oss API): name + one-liner + description = a product idea.
     Chosen because Phase 1 showed models' "novel ideas" have a startup-pitch genre.
