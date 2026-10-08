@@ -2,10 +2,10 @@
 
 Repeatedly asks frontier models on Bedrock for "an original and novel idea" across
 sampling configs and prompt interventions, to quantify the mode collapse Mike observed
-and test whether it is recoverable (hypotheses H1/H2 — see README).
+and test whether it is recoverable (hypotheses H1/H2, see README).
 
 Writes one JSONL record per generation to data/phase1/generations.jsonl, flushed
-incrementally — safe to interrupt and rerun; completed (model, config, index) triples
+incrementally, so it is safe to interrupt and rerun; completed (model, config, index) triples
 are skipped on resume.
 """
 

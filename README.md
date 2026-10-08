@@ -1,6 +1,6 @@
 # Original Thought
 
-**Can an AI have an original idea?** This repo is the reproducible code and data behind a four-experiment investigation of that question — from measuring mode collapse in frontier models to *proving* combinational novelty in transformers trained from scratch on a closed synthetic world.
+**Can an AI have an original idea?** This repo is the reproducible code and data behind a four-experiment investigation of that question, from measuring mode collapse in frontier models to *proving* combinational novelty in transformers trained from scratch on a closed synthetic world.
 
 📝 **Full writeup / blog post:** [Will AI Ever Have Original Thought?](https://blog.mikegchambers.com/posts/will-ai-ever-have-original-thought/)
 
@@ -8,12 +8,12 @@
 
 I asked a frontier LLM for "an original idea" and it gave me the same one every time. Chasing why led to four experiments:
 
-1. **Frontier mode collapse** (Amazon Bedrock) — 1,000 generations across 4 models × 5 sampling configs. At default settings three of the four models return one "pet idea" 52–92% of the time (and 100% under greedy decoding); two random seed words in the prompt recover 17–31 distinct, equally coherent ideas at the *same* temperature. Collapse is a sampling/prompting artifact, not an inability.
-2. **Novelty vs a reference corpus** — generations measured against 9,445 real ideas (5,771 YC companies + 3,674 arXiv cs.HC/cs.CY abstracts), calibrated to a human real-vs-real baseline. Typical outputs are ordinarily novel; a bad tail are near-duplicates of existing products that the model still claims are "never been done."
-3. **Provable novelty from scratch** — 21 tiny GPTs (2.3k → 14.3M params) trained on a closed "language of inventions" with a hidden validity rule and held-out combinations. From ~111k params up, models generate hundreds of provably-novel *valid* inventions never seen in training. Emergence decomposes into smooth competence + a thresholded metric.
-4. **Is collapse trained-in and reversible?** — three fine-tuning arms (control / preference / diversity) from one identical snapshot. Preference-tuning manufactures collapse (98% memorized); diversity self-training briefly beats baseline on novelty *and* validity, then degenerates without a validity signal.
+1. **Frontier mode collapse** (Amazon Bedrock): 1,000 generations across 4 models × 5 sampling configs. At default settings three of the four models return one "pet idea" 52–92% of the time (and 100% under greedy decoding); two random seed words in the prompt recover 17–31 distinct, equally coherent ideas at the *same* temperature. Collapse is a sampling/prompting artifact, not an inability.
+2. **Novelty vs a reference corpus**: generations measured against 9,445 real ideas (5,771 YC companies + 3,674 arXiv cs.HC/cs.CY abstracts), calibrated to a human real-vs-real baseline. Typical outputs are ordinarily novel, but a bad tail of them are near-duplicates of existing products that the model still claims have "never been done."
+3. **Provable novelty from scratch**: 21 tiny GPTs (2.3k → 14.3M params) trained on a closed "language of inventions" with a hidden validity rule and held-out combinations. From ~111k params up, models generate hundreds of provably-novel *valid* inventions never seen in training. Emergence decomposes into smooth competence plus a thresholded metric.
+4. **Is collapse trained-in and reversible?** Three fine-tuning arms (control / preference / diversity) from one identical snapshot. Preference-tuning manufactures collapse (98% memorized); diversity self-training briefly beats baseline on novelty *and* validity, then degenerates without a validity signal.
 
-**Headline:** under the only testable definition (P-creativity: coherent, rule-respecting output outside the training data), machine originality is already demonstrated. The deficit in everyday models is expressed *behavior*, not *capability* — training objectives suppress novelty; sampling, prompting, and training interventions recover it.
+**Headline:** under the only testable definition (P-creativity: coherent, rule-respecting output outside the training data), machine originality is already demonstrated. The deficit in everyday models is expressed *behavior*, not *capability*: training objectives suppress novelty, and sampling, prompting, and training interventions recover it.
 
 Total cost to run everything: ≈ $15 Bedrock inference + ≈ $2 EC2 GPU.
 
@@ -77,8 +77,8 @@ The GPU helper scripts in `scripts/` provision an on-demand `g6.xlarge` (SSH loc
 
 - **Combinational creativity only.** This proves new valid points in a *fixed* conceptual space. Exploratory and transformational creativity (changing the rules of the space) are out of scope by construction.
 - **No H-creativity.** "New to all of history" is unverifiable for machines and humans alike; every claim here is P-creativity relative to an enumerated training set.
-- **Scale transfer is an argument, not a proof.** The tiny-model results are a mechanistic model of frontier behavior, supported by matching collapse phenomenology — not a demonstration inside a frontier model.
+- **Scale transfer is an argument, not a proof.** The tiny-model results are a mechanistic model of frontier behavior, supported by matching collapse phenomenology, not a demonstration inside a frontier model.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT, see [LICENSE](LICENSE).

@@ -11,7 +11,7 @@ human baseline:
 
   - distance << baseline  → the "novel idea" already exists (retrieval/paraphrase)
   - distance ≈  baseline  → as novel as a typical real idea is from its neighbors
-  - distance >> baseline  → extrapolation beyond the corpus (or off-manifold junk —
+  - distance >> baseline  → extrapolation beyond the corpus (or off-manifold junk, so
                             cross-check M4 coherence scores from Phase 1)
 
 Outputs: results/phase2/novelty.csv, novelty_dist.png, extremes.txt

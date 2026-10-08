@@ -1,4 +1,4 @@
-"""Phase 3 synthetic "inventions" domain — a closed combinatorial world where
+"""Phase 3 synthetic "inventions" domain: a closed combinatorial world where
 originality is provable by construction.
 
 World: triples (device, mechanism, purpose), 50 pseudo-words of each type.

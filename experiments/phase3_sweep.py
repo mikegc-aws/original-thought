@@ -1,7 +1,7 @@
 """Phase 3 scale sweep: run phase3_train.py across all sizes × seeds sequentially.
 
 Sizes span ~7k → ~15M params. 3 seeds per size for error bars.
-Skips (size, seed) runs whose result JSON already exists — resumable.
+Skips (size, seed) runs whose result JSON already exists, so the sweep is resumable.
 
 Usage: uv run python experiments/phase3_sweep.py [--steps 6000] [--seeds 3]
 """

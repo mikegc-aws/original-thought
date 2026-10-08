@@ -3,7 +3,7 @@
 Scores a random subsample of generations per (model, config) cell for coherence and
 plausible value, using a judge model NOT in the generator pool (Claude Opus 4.5) to
 avoid self-preference. Purpose: verify that diversity interventions (hot sampling,
-diversify prompts) do not degrade idea quality — hypothesis H2.
+diversify prompts) do not degrade idea quality, hypothesis H2.
 
 Writes data/phase1/judgments.jsonl (incremental/resumable) and
 results/phase1/judge_summary.csv.

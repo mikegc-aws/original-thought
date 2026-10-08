@@ -1,5 +1,5 @@
 """Phase 3: train one small GPT on the synthetic inventions domain and evaluate
-provable novelty (metrics M5/M6 + the continuous mirage-check — see README).
+provable novelty (metrics M5/M6 + the continuous mirage-check, see README).
 
 Every generated sentence is parsed and its triple exactly classified:
   train-dup   — triple was in training data (memorization, M6)

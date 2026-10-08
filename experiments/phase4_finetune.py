@@ -1,6 +1,6 @@
 """Phase 4: is mode collapse trained-in, and is it reversible?
 
-Design — one base model (s4, 816k params: high precision AND high pre-collapse
+Design: one base model (s4, 816k params: high precision AND high pre-collapse
 novelty in Phase 3), pretrained 6k steps, then three continuations of 3k steps
 from IDENTICAL weights:
 
@@ -11,7 +11,7 @@ from IDENTICAL weights:
                distribution; expected: severe collapse)
   diversity  — iterative self-training: sample the model, keep only grammatical
                outputs that are NOT training duplicates and not already kept,
-               fine-tune on them, repeat. NO validity oracle is used — the model
+               fine-tune on them, repeat. NO validity oracle is used: the model
                gets no signal about the hidden rule, only "be new and
                grammatical". The open question: does rule-adherence (M5
                precision) survive, or does diversity training destroy validity?

@@ -3,7 +3,7 @@
 Three panels vs fine-tune step (mean over seeds, shaded min-max):
   1. training-duplicate rate (collapse)
   2. unique held-out valid triples per 4k samples (expressed novelty)
-  3. novel-valid precision (rule adherence — does diversity training destroy it?)
+  3. novel-valid precision (rule adherence: does diversity training destroy it?)
 
 Writes results/phase4/trajectories.png and endpoint summary to stdout/csv.
 """
